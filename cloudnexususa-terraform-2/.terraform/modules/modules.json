@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb","Source":"./alb","Dir":"alb"},{"Key":"dynamodb","Source":"./dynamodb","Dir":"dynamodb"},{"Key":"ec2","Source":"./ec2","Dir":"ec2"},{"Key":"rds","Source":"./rds","Dir":"rds"},{"Key":"route53","Source":"./route53","Dir":"route53"},{"Key":"vpc","Source":"./vpc","Dir":"vpc"}]}
